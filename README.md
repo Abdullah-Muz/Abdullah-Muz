@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Abdullah Muzher!
+# Hey, I'm Abdullah Muzher!
 
 </div>
 
