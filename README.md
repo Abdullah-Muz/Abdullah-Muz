@@ -8,7 +8,7 @@
 
 I'm an Electrical and Computer Engineering student at the **University of Windsor** with experience in robotics, embedded systems, electrical hardware, and industrial automation. I enjoy building systems that connect software with the physical world, from embedded firmware and robotic control to simulation and machine learning.
 
-I'm currently an **Electrical Engineering Intern at Zephyr Fusion (YC F25)**, working on hardware, embedded control, and robotics. I'm especially interested in autonomous systems, robotics, and developing reliable engineering solutions that go beyond simulation.
+I'm currently an **Electrical Engineering Intern at Zephyr Fusion (YC F25)**, working on hardware, embedded control, and robotics for space systems. I'm especially interested in autonomous systems, robotics, and developing reliable engineering solutions that go beyond simulation.
 
 ## 💻 Featured Project
 
