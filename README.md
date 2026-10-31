@@ -15,7 +15,7 @@ I'm currently an **Electrical Engineering Intern at Zephyr Fusion (YC F25)**, wo
 
 ### 🐼 PolyPanda — Reinforcement Learning for Robotic Manipulation
 
-PolyPanda is a modular robotics and reinforcement learning project built around a simulated **7-DOF Franka Panda robotic arm**. Using **MuJoCo, PyTorch, Gymnasium, and Stable-Baselines3**, it explores autonomous manipulation through learned control policies, classical robotics algorithms, and hierarchical task coordination.
+PolyPanda is a modular robotics and reinforcement learning project built around a simulated **7-DOF Franka Panda robotic arm**. Using **MuJoCo, PyTorch, Gymnasium, and Stable Baselines3**, it explores autonomous manipulation through learned control policies, classical robotics algorithms, and hierarchical task coordination.
 
 - Developed custom reinforcement learning environments for robotic reaching, grasping, transporting, placing, and object stacking.
 - Trained PPO and SAC policies for continuous robotic control, integrating learned behaviors with classical inverse kinematics and joint-space control.
