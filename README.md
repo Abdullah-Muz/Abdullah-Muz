@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Hey, I'm Abdullah!
@@ -14,7 +15,7 @@ I'm currently an **Electrical Engineering Intern at Zephyr Fusion (YC F25)**, wo
 
 ### 🐼 PolyPanda — Reinforcement Learning for Robotic Manipulation
 
-PolyPanda is a modular robotics and reinforcement project build around a simulated **7-DOF Franka Panda robotic arm**. Using **MuJoCo**, **Gymnasium**, **Stable Baselines3**, and **PyTorch**. It explores autonomous manipulation through learned control policies, classical robotics algorithms, and hierarchical task coordination.  
+PolyPanda is a modular robotics and reinforcement learning project built around a simulated **7-DOF Franka Panda robotic arm**. Using **MuJoCo, PyTorch, Gymnasium, and Stable-Baselines3**, it explores autonomous manipulation through learned control policies, classical robotics algorithms, and hierarchical task coordination.
 
 - Developed custom reinforcement learning environments for robotic reaching, grasping, transporting, placing, and object stacking.
 - Trained PPO and SAC policies for continuous robotic control, integrating learned behaviors with classical inverse kinematics and joint-space control.
@@ -40,6 +41,7 @@ PolyPanda is a modular robotics and reinforcement project build around a simulat
 ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-EF6D3A?style=for-the-badge)
 ![MuJoCo](https://img.shields.io/badge/MuJoCo-008080?style=for-the-badge)
+![MuJoCo Menagerie](https://img.shields.io/badge/MuJoCo%20Menagerie-008080?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-333333?style=for-the-badge)
@@ -57,13 +59,15 @@ PolyPanda is a modular robotics and reinforcement project build around a simulat
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux / Ubuntu](https://img.shields.io/badge/Linux%20%2F%20Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![WSL2](https://img.shields.io/badge/WSL2-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logoColor=black)
 ![uv](https://img.shields.io/badge/uv-6A4C93?style=for-the-badge)
-![WSL2](https://img.shields.io/badge/WSL2-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahmuzher/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahmuzher@yahoo.com)
+
