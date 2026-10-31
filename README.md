@@ -14,12 +14,13 @@ I'm currently an **Electrical Engineering Intern at Zephyr Fusion (YC F25)**, wo
 
 ### 🐼 PolyPanda — Reinforcement Learning for Robotic Manipulation
 
-PolyPanda is a modular reinforcement learning project built around a simulated **7-DOF Franka Panda robotic arm**. Using **MuJoCo**, **Gymnasium**, **Stable Baselines3**, and **PyTorch**, it explores learned robotic control alongside classical baselines, with an emphasis on reproducible experiments and rigorous evaluation.
+PolyPanda is a modular robotics and reinforcement project build around a simulated **7-DOF Franka Panda robotic arm**. Using **MuJoCo**, **Gymnasium**, **Stable Baselines3**, and **PyTorch**. It explores autonomous manipulation through learned control policies, classical robotics algorithms, and hierarchical task coordination.  
 
-- Built a reproducible Franka Panda simulation and reaching environment.
-- Trained and evaluated PPO and SAC policies against a model-based inverse kinematics baseline.
-- Added automated tests, continuous integration, and traceable experiment results.
-- Continuing work toward a modular, multi-policy architecture for more complex manipulation tasks.
+- Developed custom reinforcement learning environments for robotic reaching, grasping, transporting, placing, and object stacking.
+- Trained PPO and SAC policies for continuous robotic control, integrating learned behaviors with classical inverse kinematics and joint-space control.
+- Implemented hierarchical task supervision with verified policy transitions, failure recovery, and autonomous pick-and-place execution.
+- Extended the system into a simulated manufacturing workcell featuring conveyor handling, object sorting, temporary buffering, and multi-object tower assembly.
+- Built a reproducible experimentation framework with automated testing, continuous integration, policy benchmarking, and documented evaluations.
 
 **Project repository:** [PolyPanda](https://github.com/Abdullah-Muz/PolyPanda)
 
